@@ -3,6 +3,12 @@
 
 ## Font
 - https://fonts.google.com/?selected=Material+Icons
+- https://typingart.net/?cat=3
+- https://github.com/fontworks-fonts
+- http://ymnk-design.com/%E3%83%90%E3%83%8A%E3%83%8A%E3%82%B9%E3%83%AA%E3%83%83%E3%83%97/
+- https://www.lazypolarbear.com/entry/font-shirokuma
+- http://modi.jpn.org/font_senobi.php
+- https://github.com/Gutenberg-Labo/Otomanopee
 
 ## Image
 ### Dot Illustration
