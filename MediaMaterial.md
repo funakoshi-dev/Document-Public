@@ -25,3 +25,6 @@
 
 ## Sound
 - https://soundeffect-lab.info/
+- https://maou.audio/category/bgm/bgm-cyber/
+- https://dova-s.jp/
+- https://amachamusic.chagasi.com/genre_ambient2.html
