@@ -9,6 +9,7 @@
 - https://www.lazypolarbear.com/entry/font-shirokuma
 - https://github.com/Gutenberg-Labo/Otomanopee
 - https://wkwkdesign.com/japanese-handwritten-font/
+- https://booth.pm/ja
 
 ## Image
 ### Dot Illustration
